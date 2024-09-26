@@ -3,7 +3,7 @@
 
 ## 🪄 3D Generation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV 2024</div><img src='images/mambatalk.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/mambatalk.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models** \\

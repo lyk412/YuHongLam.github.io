@@ -22,6 +22,7 @@ Zunnan Xu<sup>★</sup>, **Yukang Lin**<sup>★</sup>, Haonan Han<sup>★</sup>,
 
 [**[Project]**](https://Consistent123.github.io) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 [**[Paper]**](https://arxiv.org/pdf/2309.17261) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+[**[Code]**](https://github.com/lyk412/Consistent123) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 </div>
 </div>
 
